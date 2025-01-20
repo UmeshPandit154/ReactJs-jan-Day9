@@ -1,0 +1,66 @@
+ReactJs
+
+node_modules/libraries
+public/index.html (View File)
+src/index.js   (Logic File)
+
+
+package.json
+
+What are components in ReactJs ?
+1.Component is basic building block of react app.
+2.Component is Js File
+3.A component return some  HTML structure  (JSX)
+
+Types of component
+1.React Functional Component  (New)
+2.React Class Component        (outdated)
+
+
+
+{
+   //1. P:V
+   //2. Methods
+
+}
+
+
+how reactJs application loads
+
+npm start -> react-scripts start
+               -> index.js
+                         ->index.html
+                             (Render)
+
+npm start ---> WebPack(Bundler) ----> Babel(JS Compiler) ---> Website launch
+
+Newer JS Code ---> Babel(JS Compiler) ---> Older JS Code
+
+Block Level Elements can not contain another block element
+
+Types of Element
+
+1.Inline Element
+2.Block Element
+
+
+Expression Evalulator
+`${}` pure JS
+
+{} ReactJs
+
+
+* ReactJs is built on top of NodeJs Framework
+
+Import/Export
+
+
+Every Component can have its own data
+1. Inside
+2. Outside   <------ some APIs
+
+
+A =Umesh
+     
+        Z  Hello Umesh
+
